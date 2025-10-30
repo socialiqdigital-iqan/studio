@@ -88,8 +88,6 @@ const Contact = () => {
                   <AlertDialogHeader>
                     <AlertDialogTitle>Call via Mobile</AlertDialogTitle>
                     <AlertDialogDescription>
-                      Please use your mobile to call this number:
-                      <br />
                       <strong className="text-lg text-primary">0308-9495274</strong>
                     </AlertDialogDescription>
                   </AlertDialogHeader>
